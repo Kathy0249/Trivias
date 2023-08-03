@@ -1,0 +1,24 @@
+[
+    {
+        "categoria": "Arte y litertura",
+        "pregunta": "¿Quien pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Piccaso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://ychef.files.bbci.co.uk/720x900/p096pyws.jpg",
+        "objectFit": "cover"
+
+    },
+
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+        "respuesta": "1914",
+        "incorrecta1": "1918",
+        "incorrecta2": "1939",
+        "incorrecta3": "1905",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/WWImontage.jpg/1024px-WWImontage.jpg",
+        "objectFit": "cover"
+      }
+]
