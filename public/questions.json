@@ -1,24 +1,58 @@
 [
     {
-        "categoria": "Arte y litertura",
-        "pregunta": "¿Quien pintó la mona lisa?",
-        "respuesta": "Leonardo da Vinci",
-        "incorrecta1": "Piccaso",
-        "incorrecta2": "Miguel Ángel",
-        "incorrecta3": "Monet",
-        "imagen": "https://ychef.files.bbci.co.uk/720x900/p096pyws.jpg",
+        "categoria": "Biología",
+        "pregunta": " ¿Qué parte del cuerpo humano es responsable de bombear sangre?",
+        "respuesta": "Corazón",
+        "incorrecta1": "Riñón",
+        "incorrecta2": "Estómago",
+        "incorrecta3": "Intestino",
+        "imagen": "./confused-face.gif",
         "objectFit": "cover"
 
     },
 
     {
-        "categoria": "Historia",
-        "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
-        "respuesta": "1914",
-        "incorrecta1": "1918",
-        "incorrecta2": "1939",
-        "incorrecta3": "1905",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/WWImontage.jpg/1024px-WWImontage.jpg",
+        "categoria": "Física",
+        "pregunta": " ¿Cuál es la unidad de medida de la resistencia eléctrica?",
+        "respuesta": "Ohmio",
+        "incorrecta1": "Voltio",
+        "incorrecta2": " Hertz",
+        "incorrecta3": "Vatio",
+        "imagen": "./confused-face.gif",
+        "objectFit": "cover"
+
+    },
+
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+        "respuesta": "Hidrógeno",
+        "incorrecta1": "Hierro",
+        "incorrecta2": "Carbono",
+        "incorrecta3": "Silicio",
+        "imagen": "./confused-face.gif",
+        "objectFit": "cover"
+      },
+
+      {
+        "categoria": "Astronomía",
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "respuesta": "Júpiter",
+        "incorrecta1": "Venus",
+        "incorrecta2": "Marte",
+        "incorrecta3": "Mercurio",
+        "imagen": "./confused-face.gif",
+        "objectFit": "cover"
+      },
+
+      {
+        "categoria": "Medicina",
+        "pregunta": "¿Cuál es la función principal de las plaquetas en la sangre?",
+        "respuesta": "Ayudar en la coagulación sanguínea.",
+        "incorrecta1": "Transportar oxígeno a los tejidos del cuerpo.",
+        "incorrecta2": "Producir insulina para regular los niveles de azúcar en sangre.",
+        "incorrecta3": "Regular el equilibrio de líquidos en el cuerpo.",
+        "imagen": "./confused-face.gif",
         "objectFit": "cover"
       }
 ]
